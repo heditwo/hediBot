@@ -1,0 +1,1 @@
+i wrote this bot to get some more javascript practice, nothing about it is special but i wanted to upload it to github so i can see changes
